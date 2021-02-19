@@ -15,7 +15,7 @@
 
 - E-R 다이어그램 생성 완료
 
-![E-R다이어그램_생성](/uploads/220c550b4110689c0e9bfc15e48069c0/E-R다이어그램_생성.png)
+![DB](https://user-images.githubusercontent.com/44192706/108472683-6c429900-72d0-11eb-8e6e-1fb6c12c1c39.png)
 
 
 ## DB테이블 설명
@@ -54,4 +54,4 @@ ex) 김싸피는 PT(true), 토론(false), 인성(false)
 
 ## 서버에 DB 구축
 
-![sql_picture](/uploads/d7fa0f55371e571624b5a2dd828ebba3/sql_picture.png)
+![image (1)](https://user-images.githubusercontent.com/44192706/108473012-d0fdf380-72d0-11eb-9082-5f4c9e9b6782.png)
