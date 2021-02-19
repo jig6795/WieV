@@ -20,6 +20,11 @@
 
 ![면접영상3](https://user-images.githubusercontent.com/44192706/108474921-600c0b00-72d3-11eb-9cc5-44a755d8472b.gif)
 
+- 면접방에서
+
+![관면접영상_면접](https://user-images.githubusercontent.com/44192706/108475548-343d5500-72d4-11eb-80e5-c4f7837f4db7.gif)
+
+
 #### 데이터베이스
 
 ![DB](https://user-images.githubusercontent.com/44192706/108472683-6c429900-72d0-11eb-8e6e-1fb6c12c1c39.png)
