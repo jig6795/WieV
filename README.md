@@ -14,6 +14,10 @@
 
 ![면접생성최종3](https://user-images.githubusercontent.com/44192706/108472551-3dc4be00-72d0-11eb-85da-e4c0e282fb5b.gif)
 
+#### 면접 시연
+
+![면접영상3](https://user-images.githubusercontent.com/44192706/108474921-600c0b00-72d3-11eb-9cc5-44a755d8472b.gif)
+
 #### 데이터베이스
 
 ![DB](https://user-images.githubusercontent.com/44192706/108472683-6c429900-72d0-11eb-8e6e-1fb6c12c1c39.png)
